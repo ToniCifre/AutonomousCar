@@ -1,0 +1,10 @@
+ip install opencv-python
+
+sudo apt-get install libzbar0
+ip install pyzbar
+
+pip install "python-socketio[client]"
+
+pip install imutils
+
+pip install pyserial
