@@ -8,6 +8,10 @@
 - Wifi triangulation for their location 
 - Communication with an API
 
+## Structure
+
+![Diagram](Diagram.png)
+
 
 ## Real-time detection of objects and QR codes
 
