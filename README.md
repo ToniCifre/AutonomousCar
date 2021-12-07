@@ -34,7 +34,7 @@ Once you receive a notification to go to a specific stop, the car will use the l
 
 
 To see some samples of the operation and its evolution, you can watch the following videos: 
- - [Customer Recognition Test](/Test_Driver/carvision/examples/Deteccion-de-clientes.mp4)
+ - [Customer Recognition Test](/Test_Driver/carvision/examples/Deteccion-de-clientes.avi)
  - [Customer and QR Recognition Test](/Test_Driver/carvision/examples/Deteccion-de-clientes-y-QR2.avi)
 
 ## Wifi triangulation
